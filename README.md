@@ -9,7 +9,7 @@ Eles contratam nossa empresa para desenvolver um sistema de banco de dados robus
 Tarefas:
 
 
-                                                                                        1. Modelagem do Banco de Dados:
+                                                                           1. Modelagem do Banco de Dados:
 •	Tarefa: Criar o modelo relacional do banco de dados.
 
 •	Descrição: Projetar um esquema de banco de dados que inclua tabelas para clientes, produtos, vendas, estoque e fornecedores.
@@ -19,44 +19,44 @@ Tarefas:
 •	Aprendizado: Conceitos de modelagem de dados, diagramas ER, normalização.
 
 
-                                                                                    2. Criação de Tabelas e Relacionamentos:
+                                                                       2. Criação de Tabelas e Relacionamentos:
 •	Tarefa: Implementar as tabelas e os relacionamentos no Oracle Database.
 •	Descrição: Utilizar comandos SQL para criar as tabelas definidas no modelo de dados, incluindo chaves primárias e estrangeiras.
 •	Objetivo: Estabelecer uma base de dados estruturada que suporte operações transacionais e analíticas.
 •	Aprendizado: SQL DDL (Data Definition Language), constraints, integridade referencial.
 
-                                                                                    3. Inserção e Manipulação de Dados:
+                                                                       3. Inserção e Manipulação de Dados:
 •	Tarefa: Popular as tabelas com dados de exemplo e realizar operações de inserção, atualização e exclusão.
 •	Descrição: Utilizar comandos SQL para manipular dados nas tabelas.
 •	Objetivo: Garantir que os dados possam ser inseridos, atualizados e excluídos de maneira eficiente.
 •	Aprendizado: SQL DML (Data Manipulation Language).
 
-                                                                                    4. Criação de Consultas e Relatórios:
+                                                                        4. Criação de Consultas e Relatórios:
 •	Tarefa: Desenvolver consultas SQL para gerar relatórios de vendas, estoque e desempenho.
 •	Descrição: Escrever consultas complexas para extrair dados e gerar relatórios úteis para a tomada de decisões.
 •	Objetivo: Facilitar a análise de dados e a geração de insights valiosos.
 •	Aprendizado: SQL avançado, funções de agregação, joins, subconsultas.
 
-                                                                                    5. Otimização de Consultas:
+                                                                        5. Otimização de Consultas:
 •	Tarefa: Otimizar as consultas SQL para melhorar o desempenho.
 •	Descrição: Identificar e resolver gargalos de desempenho nas consultas.
 •	Objetivo: Assegurar que as consultas sejam executadas de maneira eficiente, mesmo com grandes volumes de dados.
 •	Aprendizado: Técnicas de otimização de SQL, índices, análise de planos de execução.
 
-                                                                                    6. Criação de Vistas e Procedimentos Armazenados:
+                                                                         6. Criação de Vistas e Procedimentos Armazenados:
 •	Tarefa: Implementar vistas e procedimentos armazenados para simplificar o acesso aos dados.
 •	Descrição: Criar vistas para consultas frequentes e procedimentos armazenados para operações complexas.
 •	Objetivo: Melhorar a manutenção do banco de dados e a reutilização de código.
 •	Aprendizado: SQL DDL avançado, PL/SQL.
 
-                                                                                          Entregáveis:
+                                                                               Entregáveis:
 1.	Esquema de banco de dados documentado.
 2.	Scripts SQL para criação de tabelas e relacionamentos.
 3.	Scripts SQL para inserção e manipulação de dados.
 4.	Scripts SQL para consultas e relatórios.
 5.	Relatórios de desempenho e otimização.
 6.	Vistas e procedimentos armazenados implementados.
-                                                                                           Cronograma:
+                                                                               Cronograma:
 •	Semana 1-2: Modelagem do Banco de Dados.
 •	Semana 3-4: Criação de Tabelas e Relacionamentos.
 •	Semana 5: Inserção e Manipulação de Dados.
